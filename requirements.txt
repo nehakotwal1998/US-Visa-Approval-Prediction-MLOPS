@@ -1,0 +1,28 @@
+#Requirements required for the project
+
+pymongo #mongodb setup
+from_root # to find out the root folder
+evidently==0.2.8 #for data diff prediction
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+imblearn
+xgboost
+catboost
+dill
+PyYAML
+neuro_mf
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+uvicorn
+jinja2
+python-multipart
+-e .  #this will look for setup.py file, then setup.py file will look for 
+#constructor files (__init__.py) in every folder
